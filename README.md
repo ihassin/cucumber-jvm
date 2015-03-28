@@ -12,6 +12,11 @@ bash
 $ git clone git@github.com:ihassin/cucumber-jvm.git
 $ cd cucumber-jvm
 ```
+Make sure you have maven installed
+
+```
+brew install maven
+```
 
 # Running
 

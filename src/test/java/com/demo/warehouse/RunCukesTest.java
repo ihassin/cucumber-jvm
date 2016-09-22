@@ -6,5 +6,6 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(monochrome = false, format = {"pretty", "html:target/warehouse", "rerun:target/rerun.txt"})
+
 public class RunCukesTest {
 }
